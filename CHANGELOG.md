@@ -1,5 +1,11 @@
 # @primer/css
 
+## 19.4.1
+
+### Patch Changes
+
+- [#1931](https://github.com/primer/css/pull/1931) [`e5c5312e`](https://github.com/primer/css/commit/e5c5312ec8bf139f6c94d2f70ceecd4b3cd9fd82) Thanks [@vdepizzol](https://github.com/vdepizzol)! - Page layout api updates renaming spacing options in storybook
+
 ## 19.4.0
 
 ### Minor Changes
